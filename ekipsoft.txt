@@ -1,0 +1,66 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Untitled Document</title>
+<style type="text/css">
+body {
+	background-image: url(images/bg.jpg);
+	background-size: cover;
+}
+#ust {
+	background-color: #fff;
+	width: 1200px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#logo {
+	float: left;
+	height: 100px;
+	width: 442px;
+	background: #FFFFFF
+}
+#menu {
+	background-color: #fff;
+	float: right;
+	height: 100px;
+	width: 1461px;
+}
+</style>
+</head>
+
+<body>
+<div id="logo"><img src="images/logo.png" width="442" height="100" alt=""/>&nbsp;</div>
+<div id="menu">
+  <li> <a href="#">&nbsp;Anasayfa</a>
+  <li>
+	<ul>
+	</ul>
+	</li>
+  <li><a href="#">Dijital Pazarlama</a></li>
+	<ul>
+		  <li>Dijital Pazarlama</li>
+  <li>Sosyal Medya Pazarlama</li>
+  <li>Google Ads Pazarlama</li>
+  <li>Seo Arana Motoru Optimizasyonu</li>
+	<li>Eposta Pazarlama</li>		
+		</ul>
+	</li>
+	<p><a href="#">Çözümlerimiz</a></p>
+	<ul>
+<li>Kurumsal Web Tasarımı</li>
+	<li>Web Yazılım</li>
+	<li>E-Ticaret</li>
+	<li>E-Katalog</li>
+	</ul>
+	</li>
+  <p><a href="#">Kurumsal</a></p>
+	<ul>
+	<li>Hakkımızda</li>
+	<li>KVKK Aydınlatma Metni</li>
+	</ul>
+	</li>
+	<p><a href="#">İletişim</a></p>
+</div>
+</body>
+</html>
